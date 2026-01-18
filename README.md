@@ -8,11 +8,7 @@ This project is an interactive analytics dashboard designed to visualize key per
 It enables data-driven decision-making by allowing users to track monthly performance, identify top-selling product categories, and analyze payment method preferences across different continents.
 
 ### 3.	Tools Used
-List the key technologies used to build the dashboard.
-
-Example:
-The dashboard was built using the following tools and technologies:<br>
-•	<b>Power BI Desktop:</b> Power BI Desktop: Used for the overall layout, design, and interactivity of the dashboard.<br>
+•	<b>Power BI Desktop:</b> Power BI Desktop: Used for the overall layout, design, and interactivity of the dashboard.<br><br>
 •	<b>Power Query Editor:</b> Utilized for ETL (Extract, Transform, Load) processes, data cleaning, and transformation to ensure data accuracy.<br>
 •	<b>DAX:</b> Used to create complex measures and calculated columns for custom metrics (e.g., Total Sales, Average Sales).
 
