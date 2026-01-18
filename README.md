@@ -22,4 +22,4 @@ It enables data-driven decision-making by allowing users to track monthly perfor
   • <b>Line Chart:</b> Tracks total revenue trends across different categories to identify high-growth areas.
 
 ### 6.	Dashboard
-Example: ![Dashboard Preview](https://github.com/visheshmittal01/E-Commerce-Dashboard/blob/main/Dashboard.png)
+![Dashboard Preview](https://github.com/visheshmittal01/E-Commerce-Dashboard/blob/main/Dashboard.png)
